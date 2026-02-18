@@ -1,0 +1,397 @@
+[32m[INFO][0m 2025-12-30 14:57:38 - Starting short-term auto-backup for 'driveA' every 60 seconds, deleting backups older than 120 seconds.
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 14:57:38 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 14:57:38 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_145738.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_134416.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_134316.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 14:58:38 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 14:58:38 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_145838.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 14:59:38 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 14:59:38 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_145938.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_145738.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:00:38 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:00:38 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150038.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_145838.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:01:38 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:01:38 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150138.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_145938.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:02:39 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:02:39 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150239.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150038.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:03:39 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:03:39 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150339.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150138.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:04:39 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:04:39 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150439.tar.gz.enc' integrity verified ✅
+mail: cannot send message: Process exited with a non-zero status
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150239.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:05:39 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:05:39 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150539.tar.gz.enc' integrity verified ✅
+mail: cannot send message: Process exited with a non-zero status
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150339.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:06:43 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:06:43 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150643.tar.gz.enc' integrity verified ✅
+mail: cannot send message: Process exited with a non-zero status
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150439.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:07:47 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:07:47 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150747.tar.gz.enc' integrity verified ✅
+mail: cannot send message: Process exited with a non-zero status
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150539.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:08:52 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:08:52 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150852.tar.gz.enc' integrity verified ✅
+[32m[INFO][0m 2025-12-30 15:12:59 - Starting short-term auto-backup for 'driveA' every 60 seconds, deleting backups older than 120 seconds.
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:12:59 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:12:59 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_151259.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150852.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150643.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_150747.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:14:36 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:14:36 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_151436.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:15:43 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:15:43 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_151543.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_151259.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:16:52 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 15:16:52 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_151652.tar.gz.enc' integrity verified ✅
+mail: cannot send message: Process exited with a non-zero status
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_151436.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_151543.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_151652.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:29:58 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:29:59 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_172958.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:31:12 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:31:12 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173112.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_172958.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:33:13 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:33:13 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173313.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173112.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:34:21 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:34:21 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173420.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:35:28 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:35:28 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173528.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173313.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173420.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:37:28 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:37:28 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173728.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173528.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:38:51 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:38:51 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173851.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:40:07 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:40:07 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174006.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173728.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_173851.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:41:54 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:41:54 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174154.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174006.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:43:10 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:43:10 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174310.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:44:18 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:44:18 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174418.tar.gz.enc' integrity verified ✅
+mail: cannot send message: Process exited with a non-zero status
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174154.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:45:38 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:45:38 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174538.tar.gz.enc' integrity verified ✅
+mail: cannot send message: Process exited with a non-zero status
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174310.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:46:38 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:46:38 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174638.tar.gz.enc' integrity verified ✅
+mail: cannot send message: Process exited with a non-zero status
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174418.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:48:25 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-30 17:48:25 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174825.tar.gz.enc' integrity verified ✅
+[32m[INFO][0m 2025-12-31 09:40:56 - Starting short-term auto-backup for 'driveA' every 60 seconds, deleting backups older than 120 seconds.
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:40:56 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:40:56 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094056.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174538.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174638.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251230_174825.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:42:00 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:42:00 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094200.tar.gz.enc' integrity verified ✅
+[32m[INFO][0m 2025-12-31 09:42:22 - Starting short-term auto-backup for 'driveA' every 60 seconds, deleting backups older than 120 seconds.
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:42:22 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:42:22 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094222.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:43:26 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:43:26 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094326.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094056.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:44:30 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:44:30 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094430.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094222.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094200.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:45:34 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:45:34 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094534.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094326.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:46:38 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:46:38 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094638.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094430.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:47:42 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:47:42 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094742.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094534.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:48:46 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:48:46 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094846.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094638.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:49:50 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:49:50 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094950.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094742.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:50:55 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:50:55 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095055.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094846.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:51:59 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:51:59 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095159.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_094950.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:53:05 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:53:05 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095304.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095055.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:54:09 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:54:09 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095409.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095159.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:55:13 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:55:13 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095513.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095304.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:56:17 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 09:56:17 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095617.tar.gz.enc' integrity verified ✅
+[32m[INFO][0m 2025-12-31 10:16:08 - Starting short-term auto-backup for 'driveA' every 60 seconds, deleting backups older than 120 seconds.
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:16:08 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:16:08 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_101608.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095617.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095409.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_095513.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:17:14 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:17:14 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_101714.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:18:18 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:18:18 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_101818.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_101608.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:19:23 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:19:23 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_101923.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_101714.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:20:28 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 10:20:28 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_102028.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_101818.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 19:39:04 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 19:39:04 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_193904.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_101923.tar.gz.enc: line 1: send_email: command not found
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_102028.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 19:40:18 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 19:40:18 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_194018.tar.gz.enc' integrity verified ✅
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 19:41:26 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 19:41:26 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_194126.tar.gz.enc' integrity verified ✅
+/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_193904.tar.gz.enc: line 1: send_email: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 19:42:34 - Encrypted backup created for drive 'driveA'
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+[32m[INFO][0m 2025-12-31 19:42:34 - Backup '/home/cipher/VirtuFS/backups/encrypted/driveA_20251231_194234.tar.gz.enc' integrity verified ✅
